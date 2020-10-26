@@ -3,17 +3,17 @@
 
 ## Hello
 
-my name is **Bryson Palmer** and I am a student Jr web developer. I'm currently a bootcamp *full stack* web developer student through the *University of Washington* under *Trilogy Education Services*. I'm looking to get into web development for my professional work. I plan on being a capable, creative, team oriented developer by the end of this program. I look forward to implementing this new skill in future employment. 
+My name is **Bryson Palmer** and I am a student Jr web developer. I'm currently a bootcamp *full stack* web developer student through the *University of Washington* under *Trilogy Education Services*. I'm looking to get into web development for my professional work. I plan on being a capable, creative, team oriented developer by the end of this program. I look forward to implementing this new skill in future employment. 
 
 ## My Task
 
-My task was to create an application that an employee could use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that I wrote. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+Was to create an application that an employee could use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that I wrote. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
 ## User Story
 
-As an employee with access to sensitive data </br>
+As an employee with access to sensitive data, </br>
 I want to randomly generate a password that meets certain criteria </br>
-SO that I can create a strong password that provides greater security
+SO that I can create a strong password that provides greater security.
 
 ## Page Navigation Links
 
