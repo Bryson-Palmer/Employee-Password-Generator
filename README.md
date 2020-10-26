@@ -11,9 +11,9 @@ My task was to create an application that an employee could use to generate a ra
 
 ## User Story
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+As an employee with access to sensitive data </br>
+I want to randomly generate a password that meets certain criteria </br>
+SO that I can create a strong password that provides greater security
 
 ## Page Navigation Links
 
@@ -27,20 +27,20 @@ SO THAT I can create a strong password that provides greater security
 
 ## <a id="acceptance-criteria"></a> 💼 Acceptance Criteria
 
-GIVEN I need a new, secure password
-* WHEN I click the button to generate a password
+GIVEN I need a new, secure password 
+* WHEN I click the button to generate a password </br>
 THEN I am presented with a series of prompts for password criteria
-* WHEN prompted for password criteria
+* WHEN prompted for password criteria </br>
 THEN I select which criteria to include in the password
-* WHEN prompted for the length of the password
+* WHEN prompted for the length of the password </br>
 THEN I choose a length of at least 8 characters and no more than 128 characters
-* WHEN prompted for character types to include in the password
+* WHEN prompted for character types to include in the password </br>
 THEN I choose lowercase, uppercase, numeric, and/or special characters
-* WHEN I answer each prompt
+* WHEN I answer each prompt </br>
 THEN my input should be validated and at least one of the character types should be selected * 
-* WHEN all prompts are answered
+* WHEN all prompts are answered </br>
 THEN a password is generated that matches the selected criteria
-* WHEN the password is generated
+* WHEN the password is generated </br>
 THEN the password is either displayed in an alert or written to the page
 
 - [✔️] **Status Complete**
@@ -78,7 +78,7 @@ __________________________
 
 * Installation: none
 * Usage: A secure password generator for employees who have access to sensitive data.
-* Credits: I would like to credit my teacher, TAs, and peers for their help and support. Also,  W3Schools and Web MD for their well organized information regarding objects, push(), concat(), prompt, confirm, alert, and parseInt topics.
+* Credits: I would like to credit my teacher, TAs, and peers for their help and support. Also, W3Schools and Web MD for their well organized information regarding objects, arrays[], push(), concat(), prompt, confirm, alert, and parseInt topics.
 * License: No license at this time.
 
 [Back to Top](#back-to-top) </br>
